@@ -4,7 +4,7 @@ Simple custom css to make revolt look more like Discord
 ## Features
  - Floating message bar
  - Channel headers matching channel background
- - Discord like selected server pill (needs fixing)
+ - Discord like selected server pill
  - Wider server list
  - Wider channel list
  - Server icon animations (hover only)
