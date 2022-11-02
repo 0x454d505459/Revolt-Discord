@@ -8,7 +8,7 @@ Simple custom css to make revolt look more like Discord
  - Wider server list
  - Wider channel list
  - Server icon animations (hover only)
- - Discord's addFile icon color (needs fixing)
+ - Discord's addFile icon
  - Server's notification's pin switched to middle left position
  - Discord-like server pings (in the bottom right corner) (requires electron21 minimum, revite uses electron17 right now)
 
@@ -22,7 +22,6 @@ Simple custom css to make revolt look more like Discord
 
 ## Knowned issues
 - Doesn't work on android
-- Add server and Discover icons can only be green if you have 14 servers
 
 ## Electron21 and later
 Some present and future features requires and will require the :has css pseudo-class which is only available in chromium version 105 and later which started being shipped with Electron version 21. Here is how to use it with revite

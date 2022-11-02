@@ -69,12 +69,16 @@ border-radius: 10px;
   border-radius:5px 5px 5px 5px;
 }
 
-#app > div > div > div.SidebarBase-sc-1dma6vq-0.jyizw > div.Base-sc-yb16g4-0.iDeTmr > div.list > div > div > div:nth-child(16) > a:nth-child(1) > div > div > svg > foreignObject > div > svg > path,
-#app > div > div > div.SidebarBase-sc-1dma6vq-0.jyizw > div.Base-sc-yb16g4-0.iDeTmr > div.list > div > div > div:nth-child(16) > a:nth-child(2) > div > div > svg > foreignObject > div > svg > *{
+#app > div > div > div.SidebarBase-sc-1dma6vq-0.jyizw > div.Base-sc-yb16g4-0.iDeTmr > div.list > div > div >*:last-child > * svg{
   color: #3ba55d;
 }
 
 #Menu {
+  background-color:#18191c;
+  border-radius:4px;
+}
+
+#NotificationOptions {
   background-color:#18191c;
   border-radius:4px;
 }
