@@ -10,7 +10,7 @@ Simple custom css to make revolt look more like Discord
  - Server icon animations (hover only)
  - Discord's addFile icon color (needs fixing)
  - Server's notification's pin switched to middle left position
- - Discord-like server pings (in the bottom right corner) (requires electron21 minimum, revite uses electron19 right now)
+ - Discord-like server pings (in the bottom right corner) (requires electron21 minimum, revite uses electron17 right now)
 
 ## Installing
 1. Copy the [raw JSON](https://raw.githubusercontent.com/0x454d505459/Revolt-Discord/main/theme.json) from the [theme.json](https://github.com/0x454d505459/Revolt-Discord/blob/main/theme.json)
