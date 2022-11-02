@@ -84,10 +84,27 @@ div.ItemContainer-sc-176t3v5-0.ftlyRW > div foreignObject ~ circle {
   cy:15;
   r:5;
 }
-holepunch-top-right circle {
+#holepunch-top-right circle {
   cx:0;
   cy:15;
 }  
-/*div.ItemContainer-sc-176t3v5-0.ftlyRW > div foreignObject[mask] {
-  mask:url("");
-}*/
+
+div.ItemContainer-sc-176t3v5-0.ftlyRW > div foreignObject ~ text {
+ display:none;   
+}
+
+@supports selector(html:has(p)) {
+div.ItemContainer-sc-176t3v5-0.ftlyRW > div foreignObject ~ circle[fill="var(--error)"] {
+  cx:27;
+  cy:27;
+}
+
+div.ItemContainer-sc-176t3v5-0.ftlyRW > div:has(text) foreignObject {
+  mask: url("#holepunch-bottom-right");
+}
+
+div.ItemContainer-sc-176t3v5-0.ftlyRW > div foreignObject ~ text {
+  display:inline;
+  transform: translateY(23px);
+}
+}
