@@ -1,0 +1,93 @@
+#app > div > div > div._3LgFW > div > div.Channel__ChannelMain-sc-k5myot-0.DmIgS > div.Channel__ChannelContent-sc-k5myot-1.hfkRtg > div.MessageBox__Base-sc-jul4fa-0.jBEnry {
+margin: 0px 10px 10px 10px;
+border-radius: 10px;
+}
+
+.fPzJRX {
+ background-color: var(--primary-background);
+ border-bottom: 1px solid var(--primary-header);
+}
+
+.cnyIwU .divider {
+  background-color:var(--secondary-foreground);
+}
+
+.iDeTmr {
+  width: 75px;
+}
+
+.Base-sc-yb16g4-0.iDeTmr > * {
+  margin-left: 8px;
+}
+
+.dDUwGF svg path{
+  display:none;
+}
+
+.dDUwGF svg rect {
+  x:-1;
+  y:33;
+  ry:2;
+  fill:#ffffff;
+  height:40px;
+}
+
+#app > div > div > div.SidebarBase-sc-1dma6vq-0.jyizw > div.ServerSidebar__ServerBase-sc-1lca5oe-0.JkpVA {
+  width:240px;
+}
+
+.Image-sc-3bwws8-0.kPeClm {
+  transition: border-radius 0.1s;
+}
+
+.Image-sc-3bwws8-0.kPeClm:hover {
+  border-radius:10px;
+}
+
+#app > div > div > div._3LgFW > div > div.Channel__ChannelMain-sc-k5myot-0.DmIgS > div.Channel__ChannelContent-sc-k5myot-1.hfkRtg > div.MessageBox__Base-sc-jul4fa-0.jBEnry > div.MessageBox__FileAction-sc-jul4fa-3.wcOtw > a > svg > path {
+  d:path("M12 2.00098C6.486 2.00098 2 6.48698 2 12.001C2 17.515 6.486 22.001 12 22.001C17.514 22.001 22 17.515 22 12.001C22 6.48698 17.514 2.00098 12 2.00098ZM17 13.001H13V17.001H11V13.001H7V11.001H11V7.00098H13V11.001H17V13.001Z") !important;
+}
+
+#app > div > div > div._3LgFW > div > div.Channel__ChannelMain-sc-k5myot-0.DmIgS > div.Channel__ChannelContent-sc-k5myot-1.hfkRtg {
+  transition:width 2s;
+}
+
+.sc-iktFfs.fNmnwJ pre {
+  border: 1px solid #202225;
+}
+
+::-webkit-scrollbar {
+  width:8px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius:5px;
+  margin-block:10px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius:5px 5px 5px 5px;
+}
+
+#app > div > div > div.SidebarBase-sc-1dma6vq-0.jyizw > div.Base-sc-yb16g4-0.iDeTmr > div.list > div > div > div:nth-child(16) > a:nth-child(1) > div > div > svg > foreignObject > div > svg > path,
+#app > div > div > div.SidebarBase-sc-1dma6vq-0.jyizw > div.Base-sc-yb16g4-0.iDeTmr > div.list > div > div > div:nth-child(16) > a:nth-child(2) > div > div > svg > foreignObject > div > svg > *{
+  color: #3ba55d;
+}
+
+#Menu {
+  background-color:#18191c;
+  border-radius:4px;
+}
+
+div.ItemContainer-sc-176t3v5-0.ftlyRW > div foreignObject ~ circle {
+  cx:0;
+  cy:15;
+  r:5;
+}
+holepunch-top-right circle {
+  cx:0;
+  cy:15;
+}  
+/*div.ItemContainer-sc-176t3v5-0.ftlyRW > div foreignObject[mask] {
+  mask:url("");
+}*/
