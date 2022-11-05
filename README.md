@@ -20,7 +20,7 @@ Simple custom css to make revolt look more like Discord
 ## Uninstalling
 1. Change to a different theme
 
-## Knowned issues
+## Known issues
 - Doesn't work on android
 
 ## Electron21 and later
