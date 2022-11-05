@@ -24,7 +24,7 @@ Simple custom css to make revolt look more like Discord
 - Doesn't work on android
 
 ## Electron21 and later
-Some present and future features requires and will require the :has css pseudo-class which is only available in chromium version 105 and later which started being shipped with Electron version 21. Here is how to use it with revite
+Present and future features may require the :has css pseudo-class which is only available in chromium version 105 and later which started being shipped with Electron version 21. Here is how to use it with revite
 ### Linux
 1. Install package electron21 or later using you package manager of choice
 2. Run revite by running `electron21 /usr/lib/revolt-desktop/` in a terminal. Note that it may be installed elsewhere
